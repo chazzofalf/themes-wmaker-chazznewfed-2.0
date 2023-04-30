@@ -1,0 +1,33 @@
+{
+  FrameBorderColor = "#000000";
+  FTitleColor = "#30d5c8";
+  MenuTitleBack = (solid, black);
+  MenuDisabledColor = "#6e0a1e";
+  IconTitleBack = "#000000";
+  FTitleBack = (solid, black);
+  ClipTitleFont = "Verdana:bold:pixelsize=10";
+  ClipTitleColor = "#000000";
+  FrameFocusedBorderColor = "#000000";
+  IconTitleFont = "sans serif:bold:pixelsize=9:xlfd=-*-helvetica-bold-r-normal-*-9-*-*-*-*-*-*-*";
+  HighlightColor = "#30d5c8";
+  WindowTitleFont = "sans serif:bold:pixelsize=12:xlfd=-*-helvetica-bold-r-normal-*-12-*-*-*-*-*-*-*";
+  MenuTextBack = (solid, "#000000");
+  LargeDisplayFont = "sans serif:bold:pixelsize=24:xlfd=-*-helvetica-bold-r-normal-*-24-*-*-*-*-*-*-*";
+  CClipTitleColor = "#333333";
+  MenuStyle = normal;
+  ResizebarBack = (solid, "#000000");
+  IconTitleColor = "#30d5c8";
+  TitleJustify = center;
+  MenuTextColor = "#30d5c8";
+  PTitleBack = (solid, "#000000");
+  IconBack = (solid, "#000000");
+  MenuTitleColor = "#30d5c8";
+  UTitleColor = "#dc143c";
+  MenuTitleFont = "sans serif:bold:pixelsize=12:xlfd=-*-helvetica-bold-r-normal-*-12-*-*-*-*-*-*-*";
+  UTitleBack = (solid, "#000000");
+  PTitleColor = "#00ff00";
+  MenuTextFont = "sans serif:bold:pixelsize=12:xlfd=-*-helvetica-bold-r-normal-*-12-*-*-*-*-*-*-*";
+  WorkspaceBack = (spixmap, weneedeveryonesurvive.jpg, gray20);
+  FrameSelectedBorderColor = "#ffffff";
+  HighlightTextColor = "#000000";
+}
